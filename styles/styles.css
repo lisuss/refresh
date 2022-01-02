@@ -53,3 +53,20 @@ li {
     border-radius: 6px;
 }
 
+ol > li {
+    background-color: blue;
+}
+
+h2 > p {
+    background-color: grey;
+    margin: 20px;
+}
+
+#second {
+    background-color: red;
+}
+
+.fruits {
+    background-color: brown;
+}
+
